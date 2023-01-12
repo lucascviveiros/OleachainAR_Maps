@@ -1,6 +1,6 @@
 # OleachainAR_Maps
 
- OleachainAR explores Augmented reality features among with Mapbox SDK Sattelite Maps and QRCode generation and recognition with Android/iOS camera.   
+ OleachainAR explores Augmented reality features among with Mapbox SDK Sattelite Maps and QRCode generation and recognition in Android/iOS devices.   
 
 Requirement: 
 - Mapbox SDK https://www.mapbox.com/
