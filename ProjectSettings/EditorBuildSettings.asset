@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: bd1473101de11af479ff5d0c50b77a30
+  - enabled: 1
+    path: Assets/Scenes/ZoomableMap.unity
+    guid: c929c6dce7fa4aa48b54452c3af3782a
+  - enabled: 1
+    path: Assets/Scenes/QRCodeScan.unity
+    guid: 79d9b7fed93ec254a9b75e4cc43cc24f
+  - enabled: 1
+    path: Assets/Scenes/ARFace.unity
+    guid: e9c25451205206d4189258d0036f21e4
+  - enabled: 1
+    path: Assets/Scenes/VRMobile.unity
+    guid: 329c87b54106b904da35fded4568d156
+  - enabled: 1
+    path: Assets/Scenes/ARSession/ARSessionWithPlayerPrefsCEDRI.unity
+    guid: dc6da60d9b19f43e1874e9769ad060dc
+  - enabled: 1
+    path: Assets/Scenes/ARSession/ARSession_1.unity
+    guid: 6986cacc0402b4866ab3e5926caaaf48
+  - enabled: 1
+    path: Assets/Scenes/ARSession/ARSession_2.unity
+    guid: 4623d97b8d12b4ee996d6a461f03acbe
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 468ccda11058e57479286e3f42f3ff31, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c69903e7ac2d79c47bf7f73e1cb487af, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f014fdfc580a11f4e9ae80cb0d747478, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f9f5f337c49eb4bb38e96fe2ac23375d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d6e066547fd3aac44850532110e580cb, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7b8017d47cbcf7241830f5335567e6e4, type: 2}

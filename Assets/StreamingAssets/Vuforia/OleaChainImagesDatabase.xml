@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CedriPlaca" size="2.000000 1.500977" />
+    <ImageTarget name="Oleachain_QRCode_ID_3" size="1.000000 1.000000" />
+    <ImageTarget name="QR3" size="3.000000 3.000000" />
+    <ImageTarget name="QR2" size="3.000000 3.000000" />
+    <ImageTarget name="QR1" size="3.000000 3.000000" />
+  </Tracking>
+</QCARConfig>
