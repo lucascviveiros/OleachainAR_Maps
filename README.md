@@ -1,7 +1,8 @@
 # OleachainAR_Maps
 
- OleachainAR explores some Augmented reality functionalities among with Mapbox SDK Sattelite Maps and ZXing library for QRCode generation and recognition   
+ OleachainAR explores Augmented reality features among with Mapbox SDK Sattelite Maps and QRCode generation and recognition with Android/iOS camera.   
 
-Require: 
+Requirement: 
 - Mapbox SDK
 - LeanTween (Unity Asset Store)
+- ZXing library https://github.com/micjahn/ZXing.Net/releases
