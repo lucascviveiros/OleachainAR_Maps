@@ -4,4 +4,4 @@
 
 Require: 
 - Mapbox SDK
-- LeanTween
+- LeanTween (Unity Asset Store)
